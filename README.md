@@ -2,7 +2,6 @@
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
-####  FOR ANY SUGGESTION CONTACT :@bhikan_deshmukh on Instagram!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +12,6 @@
 ##### Updated Google Account website
 ##### Removed : Spotify,Netflix,Paypal,eBay,Amazon,CryptoCurrency and Steam.
 ##### They are available on the pro version of Blackeye including more websites with paid content.
-###   Contact me on Instagram : @bhikan_deshmukh for the Pro Version
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -38,7 +36,7 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/bhikandeshmukh/blackeye-v2.0
+git clone https://github.com/SrikeshMaharaj/Blackeye-V2
 cd blackeye-v2.0
 bash blackeye.sh
 ```

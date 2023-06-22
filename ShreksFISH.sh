@@ -213,11 +213,11 @@ banner() {
 
 printf "     \e[101m\e[1;77m::                    *ShreksFISH v2.0*.                       ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Disclaimer: I assume no liability and WILL NOT be    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShreksFISH.  ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: For educational purposes ONLY!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::          Follow on Instagram @SrikeshMaharaj           ::\e[0m\n"
+printf "     \e[101m\e[1;77m::          Follow on Github https://github.com/SrikeshMaharaj           ::\e[0m\n"
 printf "\n"
 }
 

